@@ -2,7 +2,7 @@
 
 <br>
 <figure>
-  <a  href="/definiciones/queesmorphman/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anki-icon.svg/1200px-Anki-icon.svg.png" width="300" /></a>
+  <a  href="definiciones/queesmorphman/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anki-icon.svg/1200px-Anki-icon.svg.png" width="300" /></a>
   <div style="margin-top: 20px;">
   <a style="padding: 10px;
     background-color: #009485;
