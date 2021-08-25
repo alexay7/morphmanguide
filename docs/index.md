@@ -7,6 +7,6 @@
   <a style="padding: 10px;
     background-color: #009485;
     border-radius: 5px;
-    color: white;" href="/definiciones/queesmorphman/">Click Aquí para empezar</a>
+    color: white;" href="definiciones/queesmorphman/">Click Aquí para empezar</a>
   </div>
 </figure>

@@ -29,3 +29,5 @@ nav:
     - Decks prefabricados: uso/prehechos.md
     - Crear decks de anime: uso/crear.md
     - Rutina de morphman: uso/rutina.md
+extra_css:
+  - stylesheets/extra.css
