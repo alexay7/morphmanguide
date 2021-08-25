@@ -1,0 +1,31 @@
+site_name: Guía Morphman
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: green
+  language: es
+  features:
+    - header.autohide
+    - navigation.indexes
+    - navigation.sections
+plugins:
+  - search
+markdown_extensions:
+  - attr_list
+  - admonition
+
+nav:
+  - Inicio: index.md
+  - Definiciones: 
+    - ¿Qué es morphman?: definiciones/queesmorphman.md
+    - Términos usados: definiciones/palabrasmorphman.md
+  - Puesta a punto: 
+    - Instalación: preparar/instalar.md
+    - Configuración: preparar/configurar.md
+    - Consejo: preparar/consejos.md
+  - Uso: 
+    - Decks prefabricados: uso/prehechos.md
+    - Crear decks de anime: uso/crear.md
+    - Rutina de morphman: uso/rutina.md
