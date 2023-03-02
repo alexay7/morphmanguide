@@ -20,6 +20,7 @@ Una vez hayas seleccionado todas las cartas tendrás que irte a la barra de arri
 Se te abrirá un popup donde lo único que tendrás que editar son los campos de Origin y Destination. En origin deberás indicar el campo donde está la frase en japonés y en destination tienes dos opciones:
 
 1- Poner también el campo donde esté la frase en japonés y marcar "Overwrite?" como Overwrite para que se reemplaze la frase
+
 2- Crear un nuevo campo en el que poner la lectura e indicarlo ahí (recomendado para usuarios que sepan editar cartas)
 
 Una vez hayas cambiado los campos dale a "Execute", pulsa "Si" y espera a que termine el proceso.

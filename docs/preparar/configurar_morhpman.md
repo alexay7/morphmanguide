@@ -28,8 +28,6 @@ Primero tendrás que añadir las notas que ya habías estudiado anteriormente:
 
 Con esto morphman ya debería tener constancia de las palabras que conoces, para comprobarlo dirígete a la pantalla principal de anki y haz que morphman recalcule tus cartas (esto se puede hacer desde la barra superior -> Herramientas -> Morphman -> Recalc o pulsando CTRL + M). Debería aparecer una barra de carga y al desaparecer, la parte de arriba de anki debería verse similar a esto:
 
-![](2023-03-02-13-13-00.png)
-
 La K indica el número de palabras únicas que conoces, la V marca el número de palabras con variaciones que conoces (conjugaciones de verbos y cosas del estilo)
 
 
@@ -55,6 +53,8 @@ El siguiente paso es muy parecido al anterior, tendrás que añadir de igual for
 * El campo *Morphemizer* selecciona el diccionario MecabUni que descargaste en el apartado de instalación.
 
 * Deja marcada la casilla de "Read?" y la casilla de "Modify?", esto hará que morphman pueda leer y modificar las cartas de los decks prefabricados.
+
+![](2023-03-02-13-13-00.png)
 
 ## Configuración general de morphman
 ### Extra Fields
