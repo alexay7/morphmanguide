@@ -28,3 +28,5 @@ Una vez hayas cambiado los campos dale a "Execute", pulsa "Si" y espera a que te
 ![](2023-03-02-13-48-51.png)
 
 Ahora todas tus cartas tendrán el furigana y los acentos configurados correctamente, puedes comprobarlo dándole a la vista previa de cualquier carta de los decks prefabricados.
+
+![](2023-03-02-14-32-20.png)
