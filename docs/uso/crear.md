@@ -1,1 +1,1 @@
-En construcción, disculpen las molestias
+[Vídeo cortesía de Veri explicando como crear mazos prefabricados propios](https://www.youtube.com/watch?v=6b9kwPYSIHk)

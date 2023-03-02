@@ -1,13 +1,15 @@
 Ya llegado aquí se puede concluir que tienes **Morphman funcionando sin problemas**, dedicaré esta sección a cosas que hago yo a menudo o de forma rutinaria para que morphman siga dándome frutos.
 
 
-## Añadir cartas nuevas al mazo de estudio
+## Como generar definiciones a las cartas MT que pasan a ser 1T
 
-Ya deberías tener anki estructurado de tal forma que tengas un **mazo contenedor** lleno de mazos más pequeñitos de animes que te gustan, y otro **mazo de estudio** donde están las cartas que ya has estudiado y las que vas a estudiar en el futuro.
+Para esto lo que yo hago es meterme en la pestaña de "Explorar" y escribir lo siguiente en el input:
 
-Hay dos formas diferentes de *Hacer bonitas* las cartas dentro de contenedor y que pasen a formar parte de tu mazo de estudio diario.
+``tag:1T Definitions:``
 
-### **Eliminar tarjetas con palabras clave duplicadas**
+De esta forma te salen todas las cartas 1T que tienes en anki y que además tienen el campo de definiciones vacío, de esta forma no vuelves a generar las definiciones de cartas anteriores de paso puedes ver cuantas MT se han transformado.
+
+## **Eliminar tarjetas con palabras clave duplicadas**
 
 Este es el método que más uso ya que me permite aprender palabras más aleatorias pero que están más presentes en los diferentes animes además de evitar repeticiones.
 
@@ -16,7 +18,7 @@ La explicación es la siguiente, tienes **muchos decks de anime con muchas carta
 !!! JLPT important
     Aquí el por qué de añadir decks del Noken si tienes pensado examinarte, usando este método **puedes ver fácilmente que palabras del Noken aparecen en diferentes animes** y quedarte con la carta de estos animes, borrando la del JLPT.
 
-### **Coger cartas según el orden de la lista de frecuencia**
+## **Coger cartas según el orden de la lista de frecuencia**
 
 La otra opción es la más natural y no tiene mucha complicación, consiste en meterse en el menú de selección de cartas (Browse), seleccionar el deck *Contenedor* en la barra lateral de la izquierda y pulsar el botón de *Due*, el valor que hay en este campo en todas las cartas **lo determina Morphman** para indicar que cartas debes estudiar antes.
 
