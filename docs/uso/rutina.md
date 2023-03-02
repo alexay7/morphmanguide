@@ -15,6 +15,8 @@ Este es el método que más uso ya que me permite aprender palabras más aleator
 
 La explicación es la siguiente, tienes **muchos decks de anime con muchas cartas cada uno** así que **muchas de estas van a compartir *target*** y tendrás multiples cartas para aprender la misma palabra. Puedes entrar en el menú de selección de cartas (Browse) y una vez dentro hacer click en la barra de herramientas a Notes -> Find Duplicated, una vez se abra el menú seleccionas el campo donde tengas el *target* en *Search In:* y añades "Tag:1T" en *Optional filter*. Te aparecerá una lista con **todas las cartas que tengan el mismo *target*** y podrás **seleccionar cual de esas cartas consideras que es mejor** para estudiar esa palabra. Una vez seleccionada la envías al mazo de estudio y ¡ya estaría lista!
 
+![](2023-03-02-14-34-52.png)
+
 !!! JLPT important
     Aquí el por qué de añadir decks del Noken si tienes pensado examinarte, usando este método **puedes ver fácilmente que palabras del Noken aparecen en diferentes animes** y quedarte con la carta de estos animes, borrando la del JLPT.
 
@@ -23,3 +25,5 @@ La explicación es la siguiente, tienes **muchos decks de anime con muchas carta
 La otra opción es la más natural y no tiene mucha complicación, consiste en meterse en el menú de selección de cartas (Browse), seleccionar el deck *Contenedor* en la barra lateral de la izquierda y pulsar el botón de *Due*, el valor que hay en este campo en todas las cartas **lo determina Morphman** para indicar que cartas debes estudiar antes.
 
 Ya puestas en orden las cartas tendrías que ir **analizándolas de una en una** y mandar las que consideres que son de calidad al deck de Estudio.
+
+![](2023-03-02-14-34-22.png)
