@@ -1,3 +1,6 @@
+!!! IMPORTANTE danger
+    Debido a los diferentes que se utilizan, este tutorial solo funciona hasta la versión 2.1.35 de anki. La puedes descargar [AQUÍ](https://apps.ankiweb.net/downloads/archive/)
+
 Para descargar morphman para la versión 2.1 de anki haz click [aquí](https://ankiweb.net/shared/info/900801631)
 
 !!! Nota
